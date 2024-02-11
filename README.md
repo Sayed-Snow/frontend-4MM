@@ -20,17 +20,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Screenshots
+![image_2024-02-11_220415903](https://github.com/Sayed-Snow/frontend-4MM/assets/80715156/a81739bb-b01d-4cbc-af72-1e76438fdf63)
+![image_2024-02-11_220540377](https://github.com/Sayed-Snow/frontend-4MM/assets/80715156/2025a792-1332-47d3-a692-0f8d13a88bc8)
+![image_2024-02-11_220557161](https://github.com/Sayed-Snow/frontend-4MM/assets/80715156/1dd5827a-b6fb-467a-a4b6-d3f0280f589c)
